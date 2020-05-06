@@ -1,0 +1,11 @@
+{
+  "name": "discount-problem",
+  "version": "0.0.1",
+  "author": "Zoltan",
+  "license": "MIT",
+  "scripts": {
+    "start": "gatsby develop",
+    "format": "prettier --list-different --write '**/*.{js,jsx,ts,tsx,html,json,md,css,scss,svg}'",
+    "build": "gatsby build"
+  }
+}
