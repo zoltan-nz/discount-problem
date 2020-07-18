@@ -2,5 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Discount Problem',
   },
-  plugins: [],
+  plugins: [
+    'gatsby-theme-docz'
+  ],
 };

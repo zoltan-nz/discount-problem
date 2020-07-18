@@ -1,1 +1,1 @@
-# Discount Problem
+# Gatsby.js Playground
